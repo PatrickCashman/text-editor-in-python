@@ -1,6 +1,6 @@
 # text-editor-in-python
 
-This is a simple text editor application created using the Tkinter library in Python. The application allows users to open and save text files, providing basic text editing functionalities.
+This is a text editor application created using the Tkinter library in Python. The application allows users to open and save text files, providing basic text editing functionalities.
 
 Features
 Open a Text File: Users can open a text file and load its content into the text editor.
